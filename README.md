@@ -19,5 +19,5 @@ This Angular2 and Electron sample app based on Webpack allows you to use create 
 ### Start electron application
 `npm run electron-start`
 
-### Pack application (for OSX only)
+### Pack electron application (for OSX only)
 `npm run electron-pack`
